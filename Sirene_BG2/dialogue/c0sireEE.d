@@ -207,7 +207,7 @@ DO ~SetGlobal("C0SireneNeera2","GLOBAL",2)~
 == BNEERA ~You know, I've heard some mages spend their lifetimes trying to turn lead into gold. If I get bored of travelling and decide to settle down, I think I'll research turning metals into chocolate. Yum.~
 == BC0SIRE2 ~(laugh) Though I assume the wild magic would complicate things.~
 == BNEERA ~Well, yeah. I wouldn't like to take a bite and find out it's... er, something else. Uh, actually, I'd rather not think about that. Eww.~
-== BC0SIRE2 ~Do you see yourself ever truly setting down?~
+== BC0SIRE2 ~Do you see yourself ever truly settling down?~
 == BNEERA ~Sometimes... but then again, I see a lot of things in my future. Anything could happen.~
 == BNEERA ~That is, if I don't blow myself up in the meantime.~
 EXIT
