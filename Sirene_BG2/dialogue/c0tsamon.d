@@ -5,7 +5,7 @@ CHAIN IF WEIGHT #-1
 ~Well, well... so you came after all. I wondered if you had the courage, Sirene of Ilmater.~
 DO ~SetGlobal("C0SireneTsamon","GLOBAL",1)~
 == C0SIRE2J ~I have come as you bid me, Talonite. Now I will have answers from you.~
-== C0TSAMON ~Do you now? And what if those answers are not what you wished, then? If I were to list each of your crimes committed, the deaths that were the price of your existence?~
+== C0TSAMON ~Will you now? And what if those answers are not what you wished, then? If I were to list each of your crimes committed, the deaths that were the price of your existence?~
 == C0SIRE2J ~Who... who are you?~
 == C0TSAMON ~My name is T'samon De'bryll Thornhaven... but I presume that name means nothing to you.~
 == C0SIRE2J ~T'samon...? You speak as if you know of me, yet neither your name nor your face is familiar. What have I done to earn your hatred?~
