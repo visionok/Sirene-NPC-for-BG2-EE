@@ -13,7 +13,7 @@ DO ~SetGlobal("C0SireneTsamon","GLOBAL",1)~
 == C0SIRE2J ~You-?! You are...~
 == C0TSAMON ~Aye. I am T'samon, son of Lena of the noble house De'Bryll. Our mother.~
 == C0SIRE2J ~If what you say is the truth, then why have you called me here? Even if we are siblings, I am a servant of Ilmater, and you of Talona. We are enemies by our faiths alone.~
-== C0TSAMON ~Perhaps. But know that I sought you my own purposes, not my patron's. You were a fool to come, but I thank you for it... for my vengeance is soon to come to fruition.~
+== C0TSAMON ~Perhaps. But know that I sought you for my own purposes, not my patron's. You were a fool to come, but I thank you for it... for my vengeance is soon to come to fruition.~
 == C0SIRE2J ~'Your vengeance'...? Of what do you speak?~
 == C0TSAMON ~You do not know? What of your companion, then? Does <PRO_HESHE> know the extent of your sins? Well, <CHARNAME>, child of Bhaal? Speak for yourself.~
 END
