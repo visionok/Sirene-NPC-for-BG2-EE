@@ -353,7 +353,7 @@ SAY ~By Ilmater... I have seen entire cities in suffering before, but... it neve
 END
 
 IF ~~ LG1.1
-SAY ~There is evil within and without. So long as either exists, this city will suffer. I pray to Ilmater to guidance, but all I have are questions...~
+SAY ~There is evil within and without. So long as either exists, this city will suffer. I pray to Ilmater for guidance, but all I have are questions...~
 = ~I can only trust that you know what to do, <CHARNAME>. You have led us thus far. I have faith in you.~
 ++ ~We'll do what we can, but... I can't promise you it'll be enough.~ + LG1.4
 ++ ~I can make mistakes, too. I'm not as great as you think I am.~ + LG1.5
