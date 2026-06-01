@@ -343,7 +343,7 @@ DO ~SetGlobal("C0SireneSarevokToB2","GLOBAL",1)~
 == BC0SIR25 ~If... if that is all?~
 == BSAREV25 ~You are a strange person, Ilmatari. One moment your words are dripping with hostility, the next you are apologizing with such sincerity that I almost believe it. What do you truly feel, I wonder?~
 == BC0SIR25 ~Are... are you truly asking? I did not think you cared.~
-== BSAREV25 ~Perhaps I do not. But <CHARNAME>'s strange desire to know those he walks with may have gotten to me. So, answer me, paladin - how much hate do you still feel towards me?~
+== BSAREV25 ~Perhaps I do not. But <CHARNAME>'s strange desire to know those <PRO_HESHE> walks with may have gotten to me. So, answer me, paladin - how much hate do you still feel towards me?~
 == BC0SIR25 ~Hate is not something I feel easily. I cannot forgive the man you died as once, Sarevok, but as you are now... no, I cannot see any reason to hate you.~
 == BSAREV25 ~I see. If that is so, then I am satisfied.~
 EXIT
